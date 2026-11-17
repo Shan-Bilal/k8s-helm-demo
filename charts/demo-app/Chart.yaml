@@ -1,0 +1,6 @@
+apiVersion: v2
+name: demo-app
+description: Demo Flask app with health checks, ingress and autoscaling
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
